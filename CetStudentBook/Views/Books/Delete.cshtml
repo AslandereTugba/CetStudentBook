@@ -25,8 +25,7 @@
         <dd class="col-sm-10">@(Model.IsSecondHand ? "Evet" : "Hayir")</dd>
     </dl>
 
-    <form asp-action="Delete">
-        <input type="hidden" asp-for="Id" />
+    <form asp-action="Delete" asp-route-id="@Model.Id">
         <button type="submit" class="btn btn-danger">Delete</button> |
         <a asp-action="Index">Back to List</a>
     </form>
