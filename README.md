@@ -35,10 +35,10 @@ Bu komutlar Books tablosunu veritabaninda olusturur.
 ### Screenshots
 
 #### Books List Page
-![Books List](screenshots/books-list.png)
+![Books List](CetStudentBook/screenshots/BooksListPage.png)
 
 #### Edit Page with Validation Error
-![Edit Validation](screenshots/edit-validation.png)
+![Edit Validation](CetStudentBook/screenshots/EditPage.png)
 
 #### Delete Confirmation Page
-![Delete Confirmation](screenshots/delete-confirmation.png)
+![Delete Confirmation](CetStudentBook/screenshots/DeletePage.png)
